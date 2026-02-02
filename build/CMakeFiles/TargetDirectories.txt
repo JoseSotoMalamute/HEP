@@ -1,0 +1,7 @@
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/tarea_simulacion.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/edit_cache.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/rebuild_cache.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/list_install_components.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/install.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/install/local.dir
+/Users/otymar/Documents/Physics/10mo_semestre/simulacion_analisis/muon80W/build/CMakeFiles/install/strip.dir

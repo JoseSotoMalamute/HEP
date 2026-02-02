@@ -1,0 +1,11 @@
+/control/verbose 1
+/run/initialize
+
+# Abre un driver Qt OpenGL (si no tienes Qt, cambia por OGL)
+# /vis/open OGL
+/vis/open OGLSQt
+/vis/drawVolume
+/vis/scene/add/axes 0 0 0 50 mm
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate
+/tracking/verbose 0
